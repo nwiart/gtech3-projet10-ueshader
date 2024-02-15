@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.3",
+	"EngineAssociation": "{6037204E-448F-F10E-AE87-F8937380A64A}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -15,5 +15,8 @@
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
